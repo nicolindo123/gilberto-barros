@@ -31,23 +31,27 @@
        
        <p class=”Majors”>Cada Major acontecem em um local diferente do mundo e assim cada Major contém sua premiação</p>
        
-        <ul>DreamHack Winter 2013 </ul>
-        <ul>EMS One Katowice 2014 </ul>
-        <ul>ESL One: Cologne 2014 </ul>
-        <ul>DreamHack Winter 2014 </ul>
-        <ul>ESL One: Cologne 2015 </ul>
-        <ul>DreamHack Open Cluj-Napoca 2015 </ul>
-        <ul>MLG Columbus 2016 </ul>
-        <ul>ELEAGUE Major Atlanta 2017 </ul>
-        <ul>PGL Major Kraków 2017 </ul>
-        <ul>ELEAGUE Major Boston 2018 </ul>
-        <ul>FACEIT Major: London 2018 </ul>
-        <ul>Intel Extreme Masters XIII - Katowice Major 2019 </ul>
-        <ul>StarLadder Berlin Major 2019 </ul>
-        <ul>PGL Major Stockholm 2021 </ul>
-        <ul>PGL Major Antwerp 2022 </ul>
-        <ul>Intel Extreme Masters Rio Major 2022 </ul>
-        <ul>BLAST.tv Paris Major 2023</ul>
+        
+ <ul> 
+        <li>DreamHack Winter 2013 </li>
+        <li>EMS One Katowice 2014 </li>
+        <li>ESL One: Cologne 2014 </li>
+        <li>DreamHack Winter 2014 </li>
+        <li>ESL One: Cologne 2015 </li>
+        <li>DreamHack Open Cluj-Napoca 2015 </li>
+        <li>MLG Columbus 2016 </li>
+        <li>ELEAGUE Major Atlanta 2017 </li>
+        <li>PGL Major Kraków 2017 </li>
+        <li>ELEAGUE Major Boston 2018 </li>
+        <li>FACEIT Major: London 2018 </li>
+        <li>Intel Extreme Masters XIII - Katowice Major 2019 </li>
+        <li>StarLadder Berlin Major 2019 </li>
+        <li>PGL Major Stockholm 2021 </li>
+        <li>PGL Major Antwerp 2022 </li>
+        <li>Intel Extreme Masters Rio Major 2022 </li>
+        <li>BLAST.tv Paris Major 2023</li>
+</ul>
+
 </header>
 </body>
 </html>
