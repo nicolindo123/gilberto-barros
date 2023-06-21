@@ -9,31 +9,43 @@
 </head>
 <body>
     
+    <div> 
+        <section class="cabeçalho">
+
 <header>
-        <h1><strong>counter strike</strong></h1>
+        <h1><strong>Counter Strike Global Ofensive</strong></h1>
 
     <ul>
+    </header>
 
         <li>Majors</li>
         <li>Times</li>
         <li>Jogadores</li>
 
-
-        
-            <img class="counter strike logo" src="https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg?t=1683566799">
-
     </ul>
 
+</div>
+
+
+         <p>  <img class="counter strike logo" src="https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg?t=1683566799"></p> 
+
     <section class=”Majors”>
-        <h2 class="Majors"> Todos os Majors </h2>
        
-       <p class=”Majors”>Os Majors são como a Champions League do CS</p>
+        <h2>O que é um major?</h2>
+
+       <h3 class=”Majors”> Mundial de Clubes do CS</h3>
+      
+       <p>Major é um campeonato geralmente feito duas vezes ao ano, contendo os melhores clube de cada região, que atraves de uma seletiva(RMR) são conviado para jogar o grande campeonato.</p>
        
-       <p class=”Majors”>Cada Major acontecem em um local diferente do mundo e assim cada Major contém sua premiação</p>
+       <p class=”Majors”>Cada Major acontecem em um local diferente do mundo e assim cada Major contém sua premiação.</p>
        
-        
+       
+       <h3 class="Majors"> Todos os Majors: </h3>
+    </section>  
+
+    <div class="ganhadores">
  <ul> 
-        <li>DreamHack Winter 2013 </li>
+       <p> <li>DreamHack Winter 2013 </li>
         <li>EMS One Katowice 2014 </li>
         <li>ESL One: Cologne 2014 </li>
         <li>DreamHack Winter 2014 </li>
@@ -50,8 +62,21 @@
         <li>PGL Major Antwerp 2022 </li>
         <li>Intel Extreme Masters Rio Major 2022 </li>
         <li>BLAST.tv Paris Major 2023</li>
-</ul>
+        </p>
+    </ul>
 
-</header>
+    </div>
+<div class="maiores ganhadores">
+
+    <h2>Times mais campeões do Major de CS:GO</h2>
+ 
+    <p> Quatro vezes campeã do Major entre 2017 e 2019, a Astralis encerrou o ciclo do CS:GO como maior vencedora.<p> A equipe dinamarquesa superou a Fnatic, que tem três conquistas, ao conquistar o título do StarLadder Major Berlin 2019, o quarto na história e o terceiro consecutivo.
+        O Brasil, por sua vez, venceu o Major em duas oportunidades na temporada 2016, com organizações diferentes.</p><p> O primeiro título veio com a Luminosity Gaming no MLG Columbus, quando o time formado por FalleN, fer coldzera, fnx e TACO, além de zews como treinador, venceu a ucraniana/russa NAVI por 2 a 0 na final.</p> <p>O segundo troféu veio na ESL One: Cologne, com vitória contra a norte-americana Team Liquid na decisão, pelo mesmo placar. O elenco, no entanto, representava a SK Gaming.
+    </p>
+   
+    
+
+
+</div>
 </body>
 </html>
